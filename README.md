@@ -1,6 +1,6 @@
 ## Olá! Dev 🖐️
 Sou  guilherme! um estudante 
-Atualmente  estudando analise e desenvolvimento de sistemas na [fadesa](https://fadesa.edu.br/)
+Atualmente  estudando analise e desenvolvimento de sistemas na [Fadesa](https://fadesa.edu.br/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
